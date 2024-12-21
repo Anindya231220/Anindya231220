@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anindya Halder
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/Anindya Halder.png)
 
 As a web developer:
 "Creative and detail-oriented web designer and developer specializing in building responsive, user-friendly websites. Proficient in front-end and back-end technologies with a passion for delivering innovative digital solutions."
