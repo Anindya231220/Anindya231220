@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anindya Halder. Web developer
+## Hi there 👋
 ###### Hi there 👋
 
 **Anindya231220/Anindya231220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
