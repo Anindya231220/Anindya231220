@@ -6,7 +6,7 @@ As a web developer:
 
 
 
-Skills: VUE JS / REACT JS / NODE JS/ JS/ HTML / CSS/ PHP
+Skills: HTML5/CSS3/Bootstrap/Tailwind CSS/React.Js/Node.Js/JavaScript
 
 - 🔭 I’m currently working on Web Project 
 - 🌱 I’m currently learning React Js 
